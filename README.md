@@ -142,16 +142,6 @@ Uma aplicação web que requisita informações de uma API
 - [x] inspiração [finmavis-swapi-task](https://github.com/finmavis/swapi-task)
 - [x] inspiração [animatk-ReactJS-Star-Wars-API](https://github.com/animatk/ReactJS-Star-Wars-API)
 
-### Web - v1.0
-
-<h5 align="center"> 
-	🚀 api `http://rocketseat-node.herokuapp.com/api`
-</h5>
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Huntweb exibi uma lista de produtos" title="#huntweb" src="./.github/hunt-web.jpg" width="400px">
-</p> 
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
